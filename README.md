@@ -4,40 +4,45 @@ README of VG101 Project
 ## Background
 This is the readme for our VG101 project. We are group 9. And we create a game using C++ named Virus GO. 
 
-In this game, you perform as a virus which invade our bady. You should fight with emenies-immune cells, find props to promote your properties. You should also search landmarks then you can pass through the map which we design. This game is just like the typical game-Magic Tower. We design three layers for our game. 
+In this game, you perform as a virus which invade our bady. You should fight with emenies-immune cells and medical equipment, find props to promote your properties. You should also search landmarks then you can pass through the map which we design. This game is just like the typical game-Magic Tower. We design three layers for our game. 
 
 ## Install
 
-You can use this link to download the zip and use Clion to compile and configure the game.
+First, you should download VS2019 and easyX.
+
+Then, you can download the zip of exe file and the png pictures of the game. The use exe file to open one of the png picture, and then it will run well.
 
 ## How to Use
-1.Run the game,then you can see that you have four properties-ATK, DEF,HP and Level. 
+1.Run the game,input "start" on the command line, then you can see the map.
 
-2.Input "start" on the command line, then you can see the map. 
+2.Then you can see that you have eight properties-ATK, DEF, HP, exp, the number of yellow landmark, red landmark, blue landmark and Level. 
 
-3.In this map, you are "*". 
+3.In this map, you are the virus.
 
 4.You can use "W","s","a","d" to control "up","down","left","right". 
 
-5."#" means wall which you can not pass through. 
+5.Blue grid means wall which you can not pass through. 
 
-6."A" means ATK+2, "D" means DEF+2, "H" means HP+200.
+6.Red gem means ATK+2, blue gem means DEF+2, liquid medicine means HP+200.
 
-7.Numbers mean different kinds of enenies, they have different properties, you can choose whether to attack them. 
+7.There are different kinds of enenies, they have different properties, you can choose whether to attack them. 
 
 8.After you beat the enemy, you can get experiences, you can upgrade one level after you get 100 experiences. 
 
-9."Y" means yellow door, "R" means red door, "B" means blue door. Corresponding to it, "y" means yellow key, "r" means red key, "b" means blue key.
+9.There are yellow door, red door and blue door. Corresponding to it, there are yellow key, red key, and blue key.
 
 10.Only you have the right color key, you can open the door.
 
-11.We have three layers of map, you can go to the "+" to up the layers, you can also go to the "-" to down the layers. 
+11.We have three layers of map, you can go to the "upstairs" to up the layers, you can also go to the "downstairs" to down the layers. 
 
 12.After you go through all these three maps, then you win.
 
 13.You can also input "save" to save the progress of the game.
 
 For this game, please find the best way to pass and enjoy it!
+
+## For the Fight
+You can choose whether to attack the enemy. You can attack first. In a round, your ATK minuses the emeny's DEF is the damage you make the emeny. It is the same when the enemy attack you. Only your ATK is bigger than the enemy's DEF,then you can attack the enemy. 
 
 ## Contributors
 Jiyu Chen
