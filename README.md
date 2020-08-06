@@ -16,7 +16,7 @@ You can download the and unpack the zip. Then click the exe file to open, and th
 
 3.In this map, you are the virus.
 
-4.You can use "W","s","a","d" to control "up","down","left","right". 
+4.You can use "w","s","a","d" to control "up","down","left","right". 
 
 5.Blue grid means wall which you can not pass through. 
 
@@ -34,7 +34,7 @@ You can download the and unpack the zip. Then click the exe file to open, and th
 
 12.After you go through all these three maps, then you win.
 
-13.You can also input "save" to save the progress of the game.
+13.You can click "e" to find the properties of enemes.
 
 For this game, please find the best way to pass and enjoy it!
 
