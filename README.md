@@ -7,10 +7,7 @@ This is the readme for our VG101 project. We are group 9. And we create a game u
 In this game, you perform as a virus which invade our bady. You should fight with emenies-immune cells and medical equipment, find props to promote your properties. You should also search landmarks then you can pass through the map which we design. This game is just like the typical game-Magic Tower. We design three layers for our game. 
 
 ## Install
-
-First, you should download VS2019 and easyX.
-
-Then, you can download the zip of exe file and the png pictures of the game. The use exe file to open one of the png picture, and then it will run well.
+You can download the and unpack the zip. Then click the exe file to open, and then it will run well.
 
 ## How to Use
 1.Run the game,input "start" on the command line, then you can see the map.
